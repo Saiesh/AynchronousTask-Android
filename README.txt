@@ -1,0 +1,1 @@
+A simple android application that uses the inbuilt multithreading feature provided by the platform that finds it's use during the execution of data intensive operations that tend to take a long time to process . Using async class helps build an application that is interactive and clear and keeps the user completely aware of whats actually happening .
